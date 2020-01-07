@@ -1,3 +1,3 @@
-# angular-qhrwyr
+# angular-gettingstarted
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-qhrwyr)
